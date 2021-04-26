@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1005484334584",
+    "firebase_url": "https://meshalalsaleh-project-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "meshalalsaleh-project",
+    "storage_bucket": "meshalalsaleh-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005484334584:android:ad8da9d12d4950e30d0a0d",
+        "android_client_info": {
+          "package_name": "com.example.meshalalsaleh_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005484334584-agkkrq9sj7h932tugn947aogdtake0sj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKClaIYm0s5IiYGLkg_Y17LjBdMLc-rNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005484334584-agkkrq9sj7h932tugn947aogdtake0sj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
